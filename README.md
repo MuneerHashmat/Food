@@ -1,4 +1,4 @@
 # Deployed link: 
 
-## [Click Here] (https://muneerhashmat.github.io/Food/)
+## [Click Here](https://muneerhashmat.github.io/Food/)
 
